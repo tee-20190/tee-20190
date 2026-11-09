@@ -30,6 +30,8 @@ Based in New Jersey, open to relocating.
 
 ## Public outputs
 
+- Project film: [GROUND TRUTH](https://youtu.be/NYOOq7Ewek4) (2:00). Rendering code was written by AI agents under my
+  direction; figures are as of 2 November 2026 (record additions have since risen from 13 to 16)
 - Preprint, Nov 2026 (not peer reviewed): [doi:10.5281/zenodo.23874293](https://doi.org/10.5281/zenodo.23874293)
 - Preprint, Oct 2026 (not peer reviewed): [doi:10.5281/zenodo.23352619](https://doi.org/10.5281/zenodo.23352619)
 - Model weights, CC BY-SA 4.0: [doi:10.5281/zenodo.23862470](https://doi.org/10.5281/zenodo.23862470)
